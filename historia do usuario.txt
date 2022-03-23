@@ -1,0 +1,9 @@
+Funcionalidade: Somar Dois Numeros
+Eu enquanto usuario
+Quero um poder executar uma soma
+Para obter seu respectivo resultado
+
+Cenario: Executar a soma
+	Dado que o usuario informe dois numeros
+	Quando for executado
+	Entao retorne o resultado da soma
